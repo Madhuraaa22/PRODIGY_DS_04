@@ -4,7 +4,7 @@ This repository contains Task-04 of my Data Science internship with Prodigy Info
 The objective of this task is to analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 I have used the Twitter Sentiment dataset provided in the task.
 
-The main objectives are:
+# The main objectives are:
 
 Perform data cleaning and preprocessing on raw text.
 
